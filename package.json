@@ -1,7 +1,7 @@
 {
   "name": "cpnt262-a3",
   "version": "1.0.1",
-  "description": "JSON Gallery",
+  "description": "Deployed Static Website",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

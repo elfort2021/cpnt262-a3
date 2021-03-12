@@ -2,7 +2,7 @@
 
 ## Author: Eleanor Forte, 000841873
 
-JSON GALLERY
+### Deployed Static Website
 
 ### Heroku Link:
 
