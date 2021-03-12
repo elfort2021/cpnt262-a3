@@ -1,0 +1,24 @@
+{
+  "name": "cpnt262-a3",
+  "version": "1.0.1",
+  "description": "JSON Gallery",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elfort2021/cpnt262-a3.git"
+  },
+  "keywords": [],
+  "author": "Eleanor Forte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elfort2021/cpnt262-a3/issues"
+  },
+  "homepage": "https://github.com/elfort2021/cpnt262-a3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
